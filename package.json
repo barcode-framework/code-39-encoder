@@ -1,0 +1,28 @@
+{
+  "name": "code-39-encoder",
+  "version": "0.1.0",
+  "description": "an encoder for code-39 barcodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holger-Will/code-39-encoder.git"
+  },
+  "keywords": [
+    "barcode",
+    "code-39",
+    "encoder"
+  ],
+  "author": "Holger Will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holger-Will/code-39-encoder/issues"
+  },
+  "homepage": "https://github.com/Holger-Will/code-39-encoder#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
