@@ -95,7 +95,7 @@ function Code39Generator(){
     if(!options) options = {output:"ascii"}
     var t = s.toUpperCase()
     var tmp = ""
-    for(let i =0;i<t.length;i++){
+    for(var i =0;i<t.length;i++){
       if(this.getAllFromASCII(t.codePointAt(i))!=undefined){
         tmp+=t[i]
       }
