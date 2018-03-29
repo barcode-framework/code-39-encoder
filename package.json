@@ -1,6 +1,6 @@
 {
   "name": "code-39-encoder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "an encoder for code-39 barcodes",
   "main": "index.js",
   "scripts": {
